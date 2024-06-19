@@ -16,7 +16,7 @@ Before running the script, ensure you have the following installed and set up:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository_url>](https://github.com/aryam643/Web_Scraping/>
+   git clone https://github.com/aryam643/Web_Scraping
 2. **Install Required Python Libraries:**
 Use pip to install the necessary Python libraries (requests, beautifulsoup4, mysql-connector-python):
   
